@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProjetoP1</string>
+
+    <string-array name="lista_cursos">
+        <item>Selecione o Curso</item>
+        <item>Análise e Desenvolvimento de Sistemas</item>
+        <item>Direito</item>
+        <item>Engenharia Civil</item>
+    </string-array>
+
+    <string-array name="lista_aulas">
+        <item>Selecione a Aula</item>
+        <item>Desenvolvimento de Dispositivos Móveis</item>
+        <item>Linguagem de Programação 4</item>
+        <item>Processo e Qualidade de Software</item>
+        <item>Projeto Integrador 1</item>
+        <item>Sistemas Operacionais 2</item>
+        <item>Teste de Software</item>
+    </string-array>
+
+</resources>
